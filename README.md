@@ -2,14 +2,11 @@
 <p align="center"> 
   <i>I am a computer engineering student striving to improve my professional competence every day.</i>
 </p>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <div align="left">
-  Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" style="vertical-align:middle;"/>
   <br>
-  C <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
-</div>ithubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
+  C <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30" style="vertical-align:middle;"/>
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=behlulasaftekin&show_icons=true&theme=radical" height="150" alt="stats graph"  />
